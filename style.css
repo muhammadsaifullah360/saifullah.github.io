@@ -1,0 +1,48 @@
+/**{
+	text-align: right;
+}
+*/ body{
+	background-image: url(bak2.jpg);
+	background-size: cover; ;
+}
+h1{
+	color: #F1315A;
+	text-align : center;
+	border: 4px solid  #082569;
+	cursor: pointer;
+}
+p{
+	color: #0E1180;
+	/*font-weight: bold;*/
+	font-size: 150%;
+	text-align: center;
+	font-style: inherit;
+	border: 5px solid #B72900;
+	/*text-decoration: overline;*/
+	font-family: 'Poiret One',cursive;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+.WT1{
+	color: red;
+}
+.WT{
+	color: green;
+}
+#div1{
+	background: rgba(0,0,255,0.3);
+}
+#div2{
+	background: rgba(255,0,0,0.2);
+}
+a:hover{
+background-color: #8182C0;
+}
+footer{
+	text-align: center;
+	font-size: 100px;
+	color:  #0E1180; 
+}
+
